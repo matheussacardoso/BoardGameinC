@@ -1,8 +1,8 @@
 /*  
-AndrÈ Luis Pires Wenceslau Soares
+Andr√© Luis Pires Wenceslau Soares
 Antonio Horacio Rodrigues de Magalhaes
 Arley Silva Mendes de Matos
-Matheus S· Cardoso
+Matheus S√° Cardoso
 */
 #include <stdio.h>
 #include <stdlib.h>
@@ -65,7 +65,7 @@ printf("       #@@@@@@@@@@@@@@@@@  @@@@@@@@@@@@@@@@@*        \n");
 }
 
 void inicio(){
-printf("[¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨]\n");
+printf("[≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π]\n");
 printf("||                                                                                                                                  ||\n");
 printf("||     ***** *               **                ***** **          * ***         ***** *     **            *****  *         **        ||\n");
 printf("||  ******  *             *****             ******  ****       *  ****      ******  **    **** *      ******  *        *****        ||\n");
@@ -106,7 +106,7 @@ printf("||             -@W*   :++-  :@W*                                        
 printf("||               :@WW@#**#@WW=                                                   #@*             @@  @             @@@*             ||\n");
 printf("||                  :=#@#=:                                                      #@@@@@@@@@@@@@@@@@  @@@@@@@@@@@@@@@@@*             ||\n");
 printf("||                                                                                                                                  ||\n");
-printf("[¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨]\n");
+printf("[≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π≈π]\n");
 }
 
 void printMenu(){
@@ -122,10 +122,10 @@ scanf ("%d", &opcoes);
         system("cls");
 				printf ("COMO JOGAR?\n");
         printf("\t\t\t\t\t\t-----------Regras-----------\n");
-        printf("1. O JOGO CONSISTE EM UM TABULEIRO DE TAMANHO 12X12, EM QUE SUAS BORDAS S√O CORDILHEIRAS E NO MEIO … UM LAGO, SENDO ASSIM O SEU CAMPO DE BATALHA SER¡ REPRESENTADO POR UMA ¡REA DE 4X10, O QUAL TER¡ A SUA MAIS A DE SEU INIMIGO. DE INÕCIO, VOC  IR¡ POSICIONAR OS SEUS 8 GUERREIROS NO SEU CAMPO DE BATALHA (REPRESENTADOS PELOS N⁄MEROS DE 1 OU 2) E MAIS UM GUERREIRO ESPECIAL(REPRESENTADOS PELO # OU @), OU SEJA, 9 GUERREIROS NO TOTAL. EM SEGUIDA, VOC  TER¡ 2 OP«’ES: MOVIMENTAR OU ATACAR.\n\n");
-        printf("2. SE A OP«√O FOR MOVIMENTAR, … NECESS¡RIO INFORMAR PARA QUAL CASA SE DESEJA IR: POR EXEMPLO, UM GUERREIRO EM UMA CASA 4,4, S” PODERIA IR PARA A DIREITA OU ESQUERDA, OU PARA TR¡S, VISTO QUE NA FRENTE DA SUA CASA 4,4 EST¡ O LAGO. TAMB…M N√O … POSSÕVEL MOVIMENTAR POR CIMA DA CORDILHEIRA.\n\n");
-        printf("3. SE A OP«√O FOR ATACAR E O ATAQUE VIER DE UM GUERREIRO N⁄MERO 1, ELE SEMPRE … FRONTAL, SE FOR DE UM N⁄MERO 2 ELE … NA DIAGONAL PARA ESQUERDA OU DIREITA, PORTANTO, SENDO UM GUERREIRO DE N⁄MERO 2, O JOGADOR PRECISAR¡ TAMB…M DECIDIR SE DEVE ATACAR PARA DIREITA OU PARA ESQUERDA.\n\n");
-        printf("4. OS GUERREIROS ESPECIAIS POSSUEM PODERES INCRÕVEIS,UM DELES … CAPAZ DE DESTRUIR UMA ¡REA 2X5 DO SEU INIMIGO E O OUTRO … CAPAZ DE ELIMINAR UMA LINHA INTEIRA, MAS ONDE OCORRER¡ ESSE ESPECIAL SER¡ SORTEADO. VALE RESSALTAR QUE S” PODER¡ SER USADO APENAS 2 VEZ.\n\n");
+        printf("1. O JOGO CONSISTE EM UM TABULEIRO DE TAMANHO 12X12, EM QUE SUAS BORDAS SƒÇO CORDILHEIRAS E NO MEIO √â UM LAGO, SENDO ASSIM O SEU CAMPO DE BATALHA SER√Å REPRESENTADO POR UMA √ÅREA DE 4X10, O QUAL TER√Å A SUA MAIS A DE SEU INIMIGO. DE IN√çCIO, VOCƒò IR√Å POSICIONAR OS SEUS 8 GUERREIROS NO SEU CAMPO DE BATALHA (REPRESENTADOS PELOS N√öMEROS DE 1 OU 2) E MAIS UM GUERREIRO ESPECIAL(REPRESENTADOS PELO # OU @), OU SEJA, 9 GUERREIROS NO TOTAL. EM SEGUIDA, VOCƒò TER√Å 2 OP√á≈êES: MOVIMENTAR OU ATACAR.\n\n");
+        printf("2. SE A OP√áƒÇO FOR MOVIMENTAR, √â NECESS√ÅRIO INFORMAR PARA QUAL CASA SE DESEJA IR: POR EXEMPLO, UM GUERREIRO EM UMA CASA 4,4, S√ì PODERIA IR PARA A DIREITA OU ESQUERDA, OU PARA TR√ÅS, VISTO QUE NA FRENTE DA SUA CASA 4,4 EST√Å O LAGO. TAMB√âM NƒÇO √â POSS√çVEL MOVIMENTAR POR CIMA DA CORDILHEIRA.\n\n");
+        printf("3. SE A OP√áƒÇO FOR ATACAR E O ATAQUE VIER DE UM GUERREIRO N√öMERO 1, ELE SEMPRE √â FRONTAL, SE FOR DE UM N√öMERO 2 ELE √â NA DIAGONAL PARA ESQUERDA OU DIREITA, PORTANTO, SENDO UM GUERREIRO DE N√öMERO 2, O JOGADOR PRECISAR√Å TAMB√âM DECIDIR SE DEVE ATACAR PARA DIREITA OU PARA ESQUERDA.\n\n");
+        printf("4. OS GUERREIROS ESPECIAIS POSSUEM PODERES INCR√çVEIS,UM DELES √â CAPAZ DE DESTRUIR UMA √ÅREA 2X5 DO SEU INIMIGO E O OUTRO √â CAPAZ DE ELIMINAR UMA LINHA INTEIRA, MAS ONDE OCORRER√Å ESSE ESPECIAL SER√Å SORTEADO. VALE RESSALTAR QUE S√ì PODER√Å SER USADO APENAS 2 VEZ.\n\n");
         printf("5. O JOGO FINALIZA QUANDO SOBRA APENAS 1 GUERREIRO EM UM DOS CAMPOS DE BATALHA!");
         printMenu();
         break;
@@ -135,7 +135,7 @@ scanf ("%d", &opcoes);
         break;
       default:
       system("cls");
-      printf("PREZADO... N√O COMPLIQUE...!\n");
+      printf("PREZADO... NƒÇO COMPLIQUE...!\n");
 			printMenu();
       break;     
     }
@@ -155,14 +155,14 @@ void sorteio(char nome1[20],char nome2[20]){
             strcpy(primeiro, nome2);
             strcpy(segundo, nome1);
         }
-    printf("O PRIMEIRO A JOGAR … %s\n", primeiro);
-    fflush(stdin);
+    printf("O PRIMEIRO A JOGAR √â %s\n", primeiro);
+    setbuf(stdin,NULL);
 }
 
 void printmatriz(char matriz[12][12])
 {
   int i, j;
-  fflush(stdin);
+  setbuf(stdin,NULL);
   system("cls");
   printf("%s Vs %s\n", primeiro, segundo);
   printf("\n");
@@ -243,14 +243,14 @@ printf("DIGITE O NOME DO JOGADOR 2:\n");
 scanf("%s", name2);
 printf("-----------------------------------------------------------------------------------------------------------------------\n");
 printf("-----------------------------------------------------------------------------------------------------------------------\n");
-printf("BEM VINDOS USU¡RIOS, VOC S EST√O PRESTES A ENTRAR NO INCRÕVEL MUNDO DA LAPONIA,\n"); 
-printf("ONDE VOC  TER¡ A OPORTUNIDADE DE PARTICIPAR DE UMA BATALHA ESPETACULAR E INSTIGANTE!\n");
+printf("BEM VINDOS USU√ÅRIOS, VOCƒòS ESTƒÇO PRESTES A ENTRAR NO INCR√çVEL MUNDO DA LAPONIA,\n"); 
+printf("ONDE VOCƒò TER√Å A OPORTUNIDADE DE PARTICIPAR DE UMA BATALHA ESPETACULAR E INSTIGANTE!\n");
 printf("-----------------------------------------------------------------------------------------------------------------------\n");
 
 printmatriz(tabuleiro);
 
-printf("AGORA IREMOS ALOCAR CADA UM DOS SEUS GUERREIROS EM POSI«’ES\n");
-printf("GUERREIROS DE NÕVEL 1 PODEM ATACAR EM LINHA RETA, J¡ GUERREIROS DE NÕVEL 2 ATACAM NA DIAGONAL\n");
+printf("AGORA IREMOS ALOCAR CADA UM DOS SEUS GUERREIROS EM POSI√á≈êES\n");
+printf("GUERREIROS DE N√çVEL 1 PODEM ATACAR EM LINHA RETA, J√Å GUERREIROS DE N√çVEL 2 ATACAM NA DIAGONAL\n");
 printf("-----------------------------------------------------------------------------------------------------------------------\n");
 sorteio(name1, name2);
 
@@ -259,11 +259,11 @@ printmatriz(tabuleiro);
 
 n=4;
 while(n--){
-printf("%s, DIGITE A POSI«√O DO GUERREIRO DE PODER 1, DIGITE VALORES APENAS ENTRE AS LINHAS 1 E 4, E AS COLUNAS 1 E 10\n", primeiro);
+printf("%s, DIGITE A POSI√áƒÇO DO GUERREIRO DE PODER 1, DIGITE VALORES APENAS ENTRE AS LINHAS 1 E 4, E AS COLUNAS 1 E 10\n", primeiro);
 scanf("%d %d",&x,&y);
 if(x<1 || x>4 || y<1 || y>10 || tabuleiro[x][y]!=' '){
 	while(1){
-		printf("PREZADO... N√O COMPLIQUE... A POSI«√O QUE VOC  DIGITOU … INV¡LIDA!!!\n");
+		printf("PREZADO... NƒÇO COMPLIQUE... A POSI√áƒÇO QUE VOCƒò DIGITOU √â INV√ÅLIDA!!!\n");
 		scanf("%d %d",&x,&y);
 		if(4>=x && x>=1 && 10>=y && y>=1 && tabuleiro[x][y]==' '){
 			tabuleiro[x][y]='1';
@@ -272,11 +272,11 @@ if(x<1 || x>4 || y<1 || y>10 || tabuleiro[x][y]!=' '){
 	}
 }
 else{tabuleiro[x][y]='1';}
-printf("%s, DIGITE A POSI«√O DO GUERREIRO DE PODER 1, DIGITE APENAS VALORES ENRE AS LINHAS 7 E 10, E AS COLUNAS 1 E 10\n", segundo);
+printf("%s, DIGITE A POSI√áƒÇO DO GUERREIRO DE PODER 1, DIGITE APENAS VALORES ENRE AS LINHAS 7 E 10, E AS COLUNAS 1 E 10\n", segundo);
 scanf("%d %d",&x,&y);
 if(x<7 || x>10 || y<1 || y>10 || tabuleiro[x][y]!=' '){
 	while(1){
-		printf("PREZADO... N√O COMPLIQUE... A POSI«√O QUE VOC  DIGITOU … INV¡LIDA!!!\n");
+		printf("PREZADO... NƒÇO COMPLIQUE... A POSI√áƒÇO QUE VOCƒò DIGITOU √â INV√ÅLIDA!!!\n");
 		scanf("%d %d",&x,&y);
 		if(10>=x && x>=7 && 10>=y && y>=1 && tabuleiro[x][y]==' '){
 			tabuleiro[x][y]='1';
@@ -291,11 +291,11 @@ printf("------------------------------------------------------------------------
 printf("AGORA VAMOS AOS GUERREIROS DE PODER 2\n");
 printf("-----------------------------------------------------------------------------------------------------------------------\n");
 while(n--){
-printf("%s, DIGITE A POSI«√O DO GUERREIRO DE PODER 2, DIGITE VALORES ENTRE AS LINHAS 1 E 4, E AS COLUNAS 1 E 1O\n", primeiro);
+printf("%s, DIGITE A POSI√áƒÇO DO GUERREIRO DE PODER 2, DIGITE VALORES ENTRE AS LINHAS 1 E 4, E AS COLUNAS 1 E 1O\n", primeiro);
 scanf("%d %d",&x,&y);
 if(x<1 || x>4 || y<1 || y>10 || tabuleiro[x][y]!=' '){
 	while(1){
-		printf("PREZADO... N√O COMPLIQUE... A POSI«√O QUE VOC  DIGITOU … INV¡LIDA!!!\n");
+		printf("PREZADO... NƒÇO COMPLIQUE... A POSI√áƒÇO QUE VOCƒò DIGITOU √â INV√ÅLIDA!!!\n");
 		scanf("%d %d",&x,&y);
 		if(4>=x && x>=1 && 10>=y && y>=1 && tabuleiro[x][y]==' '){
 			tabuleiro[x][y]='2';
@@ -303,11 +303,11 @@ if(x<1 || x>4 || y<1 || y>10 || tabuleiro[x][y]!=' '){
 		}
 	}
 }else{tabuleiro[x][y]='2';}
-printf("%s, DIGITE A POSI«√O DO GUERREIRO DE PODER 2, DIGITE VALORES ENTRE AS LINHAS 7 E 10, E AS COLUNAS 1 E 1O\n", segundo);
+printf("%s, DIGITE A POSI√áƒÇO DO GUERREIRO DE PODER 2, DIGITE VALORES ENTRE AS LINHAS 7 E 10, E AS COLUNAS 1 E 1O\n", segundo);
 scanf("%d %d",&x,&y);
 if(x<7 || x>10 || y<1 || y>10 || tabuleiro[x][y]!=' '){
 	while(1){
-		printf("PREZADO... N√O COMPLIQUE... A POSI«√O QUE VOC  DIGITOU … INV¡LIDA!!!\n");
+		printf("PREZADO... NƒÇO COMPLIQUE... A POSI√áƒÇO QUE VOCƒò DIGITOU √â INV√ÅLIDA!!!\n");
 		scanf("%d %d",&x,&y);
 		if(10>=x && x>=7 && 10>=y && y>=1 && tabuleiro[x][y]==' '){
 			tabuleiro[x][y]='2';
@@ -320,15 +320,15 @@ printmatriz(tabuleiro);
 }	
 
 printf("-----------------------------------------------------------------------------------------------------------------------\n");
-printf("PRESTE ATEN«√O!!! AGORA VAMOS AOS GUERREIROS ESPECIAIS\n");
+printf("PRESTE ATEN√áƒÇO!!! AGORA VAMOS AOS GUERREIROS ESPECIAIS\n");
 printf("-----------------------------------------------------------------------------------------------------------------------\n");
-printf("ESTES POSSUEM HABILIDADES CATASTR”FICAS\n");
+printf("ESTES POSSUEM HABILIDADES CATASTR√ìFICAS\n");
 printf("-----------------------------------------------------------------------------------------------------------------------\n");
-printf("%s DIGITE A POSI«√O DO SEU GUERREIRO ESPECIAL, DIGITE OS VALORES  APENAS ENTRE AS LINHAS 1 E 4, E AS COLUNAS 1 E 10\n", primeiro);
+printf("%s DIGITE A POSI√áƒÇO DO SEU GUERREIRO ESPECIAL, DIGITE OS VALORES  APENAS ENTRE AS LINHAS 1 E 4, E AS COLUNAS 1 E 10\n", primeiro);
 scanf("%d %d",&x,&y);
 if(x<1 || x>4 || y<1 || y>10 || tabuleiro[x][y]!=' '){
 	while(1){
-		printf("PREZADO... N√O COMPLIQUE... A POSI«√O QUE VOC  DIGITOU … INV¡LIDA!!!\n");
+		printf("PREZADO... NƒÇO COMPLIQUE... A POSI√áƒÇO QUE VOCƒò DIGITOU √â INV√ÅLIDA!!!\n");
 		scanf("%d %d",&x,&y);
 		if(4>=x && x>=1 && 10>=y && y>=1 && tabuleiro[x][y]==' '){
 		tabuleiro[x][y]='@';	
@@ -337,11 +337,11 @@ if(x<1 || x>4 || y<1 || y>10 || tabuleiro[x][y]!=' '){
   printmatriz(tabuleiro);
 	}
 }else{tabuleiro[x][y]='@';}
-printf("%s DIGITE A POSI«√O DO SEU GUERREIRO ESPECIAL, DIGITE VALORES APENAS ENTRE AS LINHAS 7 E 10, E AS COLUNAS 1 E 10\n", segundo);
+printf("%s DIGITE A POSI√áƒÇO DO SEU GUERREIRO ESPECIAL, DIGITE VALORES APENAS ENTRE AS LINHAS 7 E 10, E AS COLUNAS 1 E 10\n", segundo);
 scanf("%d %d",&x,&y);
 if(x<7 || x>10 || y<1 || y>10 || tabuleiro[x][y]!=' '){
 	while(1){
-		printf("PREZADO... N√O COMPLIQUE... A POSI«√O QUE VOC  DIGITOU … INV¡LIDA!!!\n");
+		printf("PREZADO... NƒÇO COMPLIQUE... A POSI√áƒÇO QUE VOCƒò DIGITOU √â INV√ÅLIDA!!!\n");
 		scanf("%d %d",&x,&y);
 		if(10>=x && x>=7 && 10>=y && y>=1 && tabuleiro[x][y]==' '){
 			tabuleiro[x][y]='#';
@@ -365,23 +365,23 @@ printf("qnt1 = %d e qnt2 = %d\n",qnt1, qnt2);
 
 while(qnt1!=0 && qnt2!=0){
 	/* JOGADOR 1*/
-	printf("%s DIGITE 1 SE DESEJA MOVER OU 2 SE DESEJA ATACAR UMA PE«A.\n", primeiro);
+	printf("%s DIGITE 1 SE DESEJA MOVER OU 2 SE DESEJA ATACAR UMA PE√áA.\n", primeiro);
 	scanf("%d", &andar);
 	if(andar>2 || andar<1){
 		while(1){
-		printf("PREZADO... N√O COMPLIQUE... A POSI«√O QUE VOC  DIGITOU … INV¡LIDA!!!\n");
+		printf("PREZADO... NƒÇO COMPLIQUE... A POSI√áƒÇO QUE VOCƒò DIGITOU √â INV√ÅLIDA!!!\n");
 		scanf("%d", &andar);
 		if(andar<=2 && andar>=1){break;
 		}	
 		}
 	}
-	/* MOVIMENTA«√O*/
+	/* MOVIMENTA√áƒÇO*/
 	if(andar==1){
-	printf("DIGITE A POSI«√O DA PE«A E PARA ONDE DESEJA MOVE-LA\n");
+	printf("DIGITE A POSI√áƒÇO DA PE√áA E PARA ONDE DESEJA MOVE-LA\n");
 		scanf("%d %d %d %d",&p1,&p2,&p3,&p4);
 		if(p1<1 || p1>4 || p2<1 || p2>10 || tabuleiro[p1][p2]==' ' || tabuleiro[p3][p4]!=' ' || abs(p1-p3)>1 || abs(p2-p4)>1 ){
 			while(1){
-				printf("PREZADO... N√O COMPLIQUE... A POSI«√O QUE VOC  DIGITOU … INV¡LIDA!!!\n");
+				printf("PREZADO... NƒÇO COMPLIQUE... A POSI√áƒÇO QUE VOCƒò DIGITOU √â INV√ÅLIDA!!!\n");
 				scanf("%d %d %d %d",&p1,&p2,&p3,&p4);
 				if(4>=p1 && p1>=1 && 10>=p2 && p2>=1 && tabuleiro[p1][p2] !=' ' && tabuleiro[p3][p4] ==' ' && abs(p1-p3)==1 && abs(p2-p4)==1){
 					tabuleiro[p3][p4]=tabuleiro[p1][p2];
@@ -397,11 +397,11 @@ while(qnt1!=0 && qnt2!=0){
 	}
 	/* ATAQUE*/
 	else if(andar==2){
-		printf("DIGITE QUAL A PE«A DESEJA UTILIZAR PARA O ATAQUE\n");
+		printf("DIGITE QUAL A PE√áA DESEJA UTILIZAR PARA O ATAQUE\n");
 		scanf("%d %d",&p3,&p4);
 			if(p3>7 || tabuleiro[p3][p4]==' ' || tabuleiro[p3][p4]=='~'){
 				while(1){
-					printf("PREZADO... N√O COMPLIQUE... A POSI«√O QUE VOC  DIGITOU … INV¡LIDA!!!\n");
+					printf("PREZADO... NƒÇO COMPLIQUE... A POSI√áƒÇO QUE VOCƒò DIGITOU √â INV√ÅLIDA!!!\n");
 					scanf("%d %d",&p3,&p4);
 					if(tabuleiro[p3][p4]=='1' || tabuleiro[p3][p4]=='2' || tabuleiro[p3][p4]=='@' ){
 					break;
@@ -415,7 +415,7 @@ while(qnt1!=0 && qnt2!=0){
 				   	if(i>=7){
 						if(tabuleiro[i][p4]=='1' || tabuleiro[i][p4]=='2' || tabuleiro[i][p4]=='#'){
 							tabuleiro[i][p4]=' ';
-							printf("O GUERREIRO NA POSI«√O %d %d FOI ELIMINADO\n",i,p4);
+							printf("O GUERREIRO NA POSI√áƒÇO %d %d FOI ELIMINADO\n",i,p4);
 							sleep(2);
 							printmatriz(tabuleiro);
 							qnt2--;
@@ -427,7 +427,7 @@ while(qnt1!=0 && qnt2!=0){
 				}
 
 		else if(tabuleiro[p3][p4]=='2'){
-			printf("SELECIONE QUAL DIRE«√O ATACAR (1- DIAGONAL ESQUERDA, 2- DIAGONAL DIREITA)\n");
+			printf("SELECIONE QUAL DIRE√áƒÇO ATACAR (1- DIAGONAL ESQUERDA, 2- DIAGONAL DIREITA)\n");
 			scanf("%d",&direcao);
 
 	/* DIAGONAL ESQUERDA*/
@@ -438,7 +438,7 @@ while(qnt1!=0 && qnt2!=0){
 			   		if(i>=7){
 			   			if(tabuleiro[i][p4]=='1' || tabuleiro[i][p4]=='2' || tabuleiro[i][p4]=='#'){
 			   				tabuleiro[i][p4]=' ';
-			   				printf("O GUERREIRO NA POSI«√O %d %d FOI ELIMINADO\n",i,p4);
+			   				printf("O GUERREIRO NA POSI√áƒÇO %d %d FOI ELIMINADO\n",i,p4);
 			   				sleep(2);
 							printmatriz(tabuleiro);
 							qnt2--;
@@ -457,7 +457,7 @@ while(qnt1!=0 && qnt2!=0){
 						if(i>=7){
 			   				if(tabuleiro[i][p4]=='1' || tabuleiro[i][p4]=='2' || tabuleiro[i][p4]=='#'){
 			   					tabuleiro[i][p4]=' ';
-			   					printf("O GUERREIRO NA POSI«√O %d %d FOI ELIMINADO\n",i,p4);
+			   					printf("O GUERREIRO NA POSI√áƒÇO %d %d FOI ELIMINADO\n",i,p4);
 			   					sleep(2);
 								printmatriz(tabuleiro);
 								qnt2--;
@@ -475,7 +475,7 @@ while(qnt1!=0 && qnt2!=0){
 						do{
 							quad_sort=rand() % 5; // Vai gerar o numero entre 0 e 3
 						}
-						while(quad_sort==num1); //sortea atÈ que o "a" n„o seja um n˙mero que eu defini
+						while(quad_sort==num1); //sortea at√© que o "a" nƒÉo seja um n√∫mero que eu defini
 						quadrante=quad_sort;
 						switch (quadrante){
 					  	case 1: 
@@ -496,23 +496,23 @@ while(qnt1!=0 && qnt2!=0){
 			printf("qnt1 = %d e qnt2 = %d\n",qnt1, qnt2);
 		}
 	//JOGADOR 2
-	printf("%s DIGITE 1 SE DESEJA MOVER OU 2 SE DESEJA ATACAR UMA PE«A.\n", segundo);
+	printf("%s DIGITE 1 SE DESEJA MOVER OU 2 SE DESEJA ATACAR UMA PE√áA.\n", segundo);
 	scanf("%d", &andar);
 		if(andar>2 || andar<1){
 		while(1){
-		printf("PREZADO... N√O COMPLIQUE... A POSI«√O QUE VOC  DIGITOU … INV¡LIDA!!!\n");
+		printf("PREZADO... NƒÇO COMPLIQUE... A POSI√áƒÇO QUE VOCƒò DIGITOU √â INV√ÅLIDA!!!\n");
 		scanf("%d", &andar);
 		if(andar<=2 && andar>=1){break;
 		}	
 		}
 	}
-		/* MOVIMENTA«√O*/
+		/* MOVIMENTA√áƒÇO*/
 	if(andar==1){
-				printf("DIGITE A POSI«√O DA PE«A E PARA ONDE DESEJA MOVE-LA\n");
+				printf("DIGITE A POSI√áƒÇO DA PE√áA E PARA ONDE DESEJA MOVE-LA\n");
 				scanf("%d %d %d %d",&p1,&p2,&p3,&p4);
 				if(p1<7 || p1>10 || p2<1 || p2>10 || tabuleiro[p1][p2]==' '|| tabuleiro[p3][p4]!=' ' || abs(p1-p3)>1 || abs(p2-p4)>1 ){
 					while(1){
-						printf("PREZADO... N√O COMPLIQUE... A POSI«√O QUE VOC  DIGITOU … INV¡LIDA!!!\n");
+						printf("PREZADO... NƒÇO COMPLIQUE... A POSI√áƒÇO QUE VOCƒò DIGITOU √â INV√ÅLIDA!!!\n");
 						scanf("%d %d %d %d",&p1,&p2,&p3,&p4);
 						if(10>=p1 && p1>=7 && 10>=p2 && p2>=1 && tabuleiro[p1][p2]!=' ' && tabuleiro[p3][p4]==' ' && abs(p1-p3)==1 && abs(p2-p4)==1){
 							tabuleiro[p3][p4]=tabuleiro[p1][p2];
@@ -527,11 +527,11 @@ while(qnt1!=0 && qnt2!=0){
 		printmatriz(tabuleiro);	
 		}
 		else if (andar==2){
-			printf("DIGITE QUAL A PE«A VOC  DESEJA UTILIZAR PARA O ATAQUE\n");
+			printf("DIGITE QUAL A PE√áA VOCƒò DESEJA UTILIZAR PARA O ATAQUE\n");
 			scanf("%d %d",&p3,&p4);
 			if(p3<7 || tabuleiro[p3][p4]==' ' || tabuleiro[p3][p4]=='~'){
 				while(1){
-					printf("PREZADO... N√O COMPLIQUE... A POSI«√O QUE VOC  DIGITOU … INV¡LIDA!!!\n");
+					printf("PREZADO... NƒÇO COMPLIQUE... A POSI√áƒÇO QUE VOCƒò DIGITOU √â INV√ÅLIDA!!!\n");
 					scanf("%d %d",&p3,&p4);
 					if(tabuleiro[p3][p4]=='1' || tabuleiro[p3][p4]=='2' || tabuleiro[p3][p4]=='#' ){
 					break;
@@ -545,7 +545,7 @@ while(qnt1!=0 && qnt2!=0){
 					if(i<=4){
 					   	if(tabuleiro[i][p4]=='1' || tabuleiro[i][p4]=='2' || tabuleiro[i][p4]=='@'){
 					   		tabuleiro[i][p4]=' ';
-					   		printf("O GUERREIRO NA POSI«√O %d %d FOI ELIMINADO\n",i,p4);
+					   		printf("O GUERREIRO NA POSI√áƒÇO %d %d FOI ELIMINADO\n",i,p4);
 					   		sleep(2);
 							printmatriz(tabuleiro);
 							qnt1--;
@@ -556,11 +556,11 @@ while(qnt1!=0 && qnt2!=0){
 				printmatriz(tabuleiro);
 			}
 			else if(tabuleiro[p3][p4]=='2'){
-				printf("SELECIONE QUAL DIRE«√O ATACAR (1- DIAGONAL ESQUERDA, 2- DIAGONAL DIREITA)\n");
+				printf("SELECIONE QUAL DIRE√áƒÇO ATACAR (1- DIAGONAL ESQUERDA, 2- DIAGONAL DIREITA)\n");
 				scanf("%d",&direcao);
 				if(direcao>2){
 					while(1){
-						printf("PREZADO... N√O COMPLIQUE... A POSI«√O QUE VOC  DIGITOU … INV¡LIDA!!!\n");
+						printf("PREZADO... NƒÇO COMPLIQUE... A POSI√áƒÇO QUE VOCƒò DIGITOU √â INV√ÅLIDA!!!\n");
 						scanf("%d",&direcao);
 						if(direcao<=2){
 							break;
@@ -575,7 +575,7 @@ while(qnt1!=0 && qnt2!=0){
 						if(i<7){
 					   		if(tabuleiro[i][p4]=='1' || tabuleiro[i][p4]=='2' || tabuleiro[i][p4]=='@'){
 					   			tabuleiro[i][p4]=' ';
-					   			printf("O GUERREIRO NA POSI«√O %d %d FOI ELIMINADO\n",i,p4);
+					   			printf("O GUERREIRO NA POSI√áƒÇO %d %d FOI ELIMINADO\n",i,p4);
 					   			sleep(2);
 								printmatriz(tabuleiro);
 								qnt1--;
@@ -594,7 +594,7 @@ while(qnt1!=0 && qnt2!=0){
 						if(i<7){
 							if(tabuleiro[i][p4]=='1' || tabuleiro[i][p4]=='2' || tabuleiro[i][p4]=='@'){
 							   	tabuleiro[i][p4]=' ';
-							   	printf("O GUERREIRO NA POSI«√O %d %d FOI ELIMINADO\n",i,p4);
+							   	printf("O GUERREIRO NA POSI√áƒÇO %d %d FOI ELIMINADO\n",i,p4);
 							   	sleep(2);
 								printmatriz(tabuleiro);
 							   	qnt1--;
@@ -612,7 +612,7 @@ while(qnt1!=0 && qnt2!=0){
 					do{
 					quad_sort=rand() % 5; // Vai gerar o numero entre 0 e 3
 					}
-					while(quad_sort==num1); //sortea atÈ que o "a" n„o seja um n˙mero que eu defini
+					while(quad_sort==num1); //sortea at√© que o "a" nƒÉo seja um n√∫mero que eu defini
 					quadrante=quad_sort;
 					switch (quadrante){
 			  			case 1: 
@@ -634,12 +634,12 @@ while(qnt1!=0 && qnt2!=0){
 	printf("qnt1 = %d e qnt2 = %d\n",qnt1, qnt2);
 	if (qnt2==0){
 	vento();
-	printf("ParabÈns!!! O jogador %s represetante da dobra do vento ganhou UHULLLLLLLL", primeiro);
+	printf("Parab√©ns!!! O jogador %s represetante da dobra do vento ganhou UHULLLLLLLL", primeiro);
 	break;
 	}
 	if (qnt1==0){
 	terra();
-	printf("ParabÈns!!! O jogador %s represetante da dobra da terra ganhou AEAEAEAEAEEA", segundo);
+	printf("Parab√©ns!!! O jogador %s represetante da dobra da terra ganhou AEAEAEAEAEEA", segundo);
 	break;
 	}
 		
